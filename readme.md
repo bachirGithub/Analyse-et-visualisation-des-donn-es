@@ -1,6 +1,6 @@
 
 # (Exploring Loan Data from Prosper )
-## by (Magagi Ali Bashir)
+## by (Magagi Ali Bachir)
 
 > This is the dataset called clean_data of 15 variables (columns) and 84853 records (rows). The variables, divided into numeric and categorical, are: ListingCreationDate,Term, LoanStatus, BorrowerAPR, BorrowerRate, ProsperRating (numeric), ProsperRating (Alpha), ListingCategory (numeric), EmploymentStatus, DelinquenciesLast7Years, StatedMonthlyIncome, LoanOriginalAmount, LoanOriginationDate, Recommendations, investors. More details on variables <a href="https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0">Here</a>
 
