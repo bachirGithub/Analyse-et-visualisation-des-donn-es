@@ -18,4 +18,4 @@
 
 ## Key information for the presentation
 
-> For the presentation I have for the graphs which highlight the status of the loan as well as its opposition with the other variables.
+> For the presentation I opted for the graphs which highlight the status of the loan as well as its opposition with the other variables.
