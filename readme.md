@@ -1,21 +1,21 @@
 
-# (Exploration de Loan Data from Prosper )
-## par (Magagi Ali Bachir)
+# (Exploring Loan Data from Prosper )
+## by (Magagi Ali Bashir)
 
-> Il s'agit du dataset qui s'appelle clean_data de 15 variables (colonnes) et 84853 enregistrements (lignes). Les variables, reparties entre numeric et categorielles, sont les suivantes: ListingCreationDate,Term, LoanStatus, BorrowerAPR, BorrowerRate, ProsperRating (numeric), ProsperRating (Alpha),	ListingCategory (numeric), EmploymentStatus, DelinquenciesLast7Years, StatedMonthlyIncome, LoanOriginalAmount, LoanOriginationDate, Recommendations, Investors. Plus de details sur les variables <a href="https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0">Ici</a>
+> This is the dataset called clean_data of 15 variables (columns) and 84853 records (rows). The variables, divided into numeric and categorical, are: ListingCreationDate,Term, LoanStatus, BorrowerAPR, BorrowerRate, ProsperRating (numeric), ProsperRating (Alpha), ListingCategory (numeric), EmploymentStatus, DelinquenciesLast7Years, StatedMonthlyIncome, LoanOriginalAmount, LoanOriginationDate, Recommendations, investors. More details on variables <a href="https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0">Here</a>
 
-## Résumé des conclusions
+## Summary of Findings
 
-> - Dans la plus part des cas les prêt n'ont besoin d'aucune recommandation pour être octoyés.
-> - Durant les 7 dernières années peu d'empreunteurs on enregistré des defauts de payements.
-> - Le mois de janvier présente la plus grande fréquence des prêts suivi de décembre puis octobre ensuite novembre.
-> - L'ecrasante majorité des prêts ont un seul investiseur et aucun prêt n'a plus de 618 investisseurs.
-> - Les employés detiennent les grande partie des prêts courants. 
-> - Le travailleur à temps plein ont une grande fréquence de remboursement.
-> - Pour la durée de 36 mois le taux de prospérité de type A semble être le mieux représenté avec une domination du status de prêt Current suivie de compled.
-> - Pour la durée de 60 mois le taux de prospérité de type C présente le pick le plus élevé pour le status de prêt de type Current et completed.
-> - Pour la durée de 12, qui est la moins représente, on constate plutôt une repartition équitable entre les fréquente des prêts type Current pour les différents types de taux.
+> - In most cases the loans do not need any recommendation to be granted.
+> - During the last 7 years few borrowers have recorded payment defaults.
+> - The month of January has the highest frequency of loans followed by December then October then November.
+> - The overwhelming majority of loans have a single investor and no loan has more than 618 investors.
+> - Employees hold most of the current loans.
+> - The full-time worker have a high repayment frequency.
+> - For the duration of 36 months, the type A prosperity rate seems to be the best represented with a dominance of the Current loan status followed by compled.
+> - For the duration of 60 months the prosperity rate of type C presents the highest pick for the status of loan type Current and completed.
+> - For the duration of 12, which is the least represented, there is rather an equitable distribution between the frequent loans of the Current type for the different types of rates.
 
-## Informations clés pour la présentation
+## Key information for the presentation
 
-> Pour la présentation j'ai pour les graphique qui mettent en évidence le status du prêt ainsi que son opposition avec les autres variables.
+> For the presentation I have for the graphs which highlight the status of the loan as well as its opposition with the other variables.
